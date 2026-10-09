@@ -1,0 +1,38 @@
+GUIDE TO YOUR FIRST OPEN-SOURCE PULL REQUEST
+
+Welcome! Your first contribution can be small. The goal is to make a useful
+change, explain it clearly, and learn from the review process.
+
+1. Choose a beginner-friendly issue
+   Read the issue and the repository's README and CONTRIBUTING.md. Check the
+   discussion before you start. If the project asks you to claim an issue,
+   comment first and wait for approval.
+
+2. Fork the repository
+   Use GitHub's Fork button to make a copy under your account. Make your
+   changes in that copy, not directly in the original repository.
+
+3. Make one clear change
+   Start with something manageable, such as correcting a typo or improving
+   documentation. Keep the change related to the issue and avoid edits you
+   cannot explain.
+
+4. Check your work
+   Review the changed files for mistakes. Run any relevant checks described
+   by the project. Make sure the change solves the issue without unrelated
+   edits.
+
+5. Open a pull request
+   Compare your branch with the original repository's main branch. Give the
+   pull request a specific title. In its description, say what you changed,
+   why you changed it, and how you checked it. Link the issue if applicable.
+
+6. Respond to review
+   Be patient and respectful. Maintainers may ask questions or suggest
+   changes. Read the feedback, make updates when appropriate, and ask for
+   clarification if you are unsure.
+
+Useful reminders:
+- Read project instructions before contributing.
+- Never include passwords, API keys, or other private information.
+- A small, genuine improvement is a successful first contribution.

@@ -21,7 +21,7 @@ You can help by:
 
 - Fixing spelling and grammar mistakes.
 - Improving documentation.
-- Adding examples.
+- Adding real word examples..
 - Suggesting improvements.
 - Reporting problems clearly.
 

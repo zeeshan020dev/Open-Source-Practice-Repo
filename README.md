@@ -37,5 +37,5 @@ Before contributing, read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Remember
 
-Your first contribution does not need to be complicated.
+Your first contribution does  to be complicated.
 A small, useful improvement is a great place to start!
